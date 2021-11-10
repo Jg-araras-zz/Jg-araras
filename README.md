@@ -17,7 +17,7 @@
 
 Contact me:<br/>
 <div>
-<a href="https://discord.gg/pDbY76q8Qf"><img align="left" alt="codeSTACKr | Teams" width="45px" <img src="https://img.icons8.com/fluency/48/000000/microsoft-teams-2019.png"/></a>
+<a href="https://teams.live.com/l/invite/FAAxMdONOn1QXkofwE"><img align="left" alt="codeSTACKr | Teams" width="45px" <img src="https://img.icons8.com/fluency/48/000000/microsoft-teams-2019.png"/></a>
 <a href = "mailto:jgararas60@gmail.com"><img align="left" alt="codeSTACKr | Outlook" width="45px"<img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/></a>
   <a href = "mailto:jgararas60@gmail.com"><img align="left" alt="codeSTACKr | Gmail" width="45px"<img src="https://img.icons8.com/color/48/000000/gmail--v2.gif"/></a>
   <a href="https://br.linkedin.com/in/jos%C3%A9gabrielalvesdeoliveira" target="_blank"><img align="left" alt="codeSTACKr | LinkedIn" width="45px" <img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.gif"/></a>
