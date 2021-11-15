@@ -1,7 +1,7 @@
 ### _Hello World!_ 🌎
 
 🚚 Atualmente trabalho na Transcordeiro (empresa de transporte) na parte administrativa da manutenção; <br/>
-💻 Estou cursando Sistema da Informação na FHO. <br/>
+💻 Estou cursando Sistema de Informação na FHO. <br/>
 
 🚚 I currently work at Transcordeiro (transport company) in the administrative part of maintenance; <br/>
 💻 I'm studying Information Systems at FHO. <br/>
